@@ -1,0 +1,3 @@
+[build]
+command = "npm install && node app.js" # Express.js 애플리케이션 실행 명령
+publish = "public" # 애플리케이션 정적 파일 위치
